@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LisaRebecca
 - 👀 I’m interested in machine learning and automation.
-- 🌱 I’m currently learning flutter/dart.
+- 🌱 I’m currently learning flask.
 
 <!---
 LisaRebecca/LisaRebecca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
