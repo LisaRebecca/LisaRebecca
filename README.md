@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LisaRebecca
-- 👀 I’m interested in machine learning and automation.
-- 🌱 I’m currently learning flask.
+- 👀 I’m study AI at FAU Erlangen-Nuremberg.
+- 🌱 I’m currently working on several LLM projects.
 
 <!---
 LisaRebecca/LisaRebecca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
