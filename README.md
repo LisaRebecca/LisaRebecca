@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LisaRebecca
 - 👀 I study AI at FAU Erlangen-Nuremberg.
-- 🌱 I'm working in AI-based APP development.
+- 🌱 I'm working in AI-based app development.
 - 💙 I'm passionate about Kubernetes, automation and AI for accessibility.
 
 <!---
